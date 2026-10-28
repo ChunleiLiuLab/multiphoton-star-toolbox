@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+build/
+dist/
+*.npz
+!examples/data/shepp_logan_pm_sample.npz
+*.npy
+*:Zone.Identifier*
